@@ -3,7 +3,7 @@
 <<<<<<< HEAD
 - Egitim muthis gidiyor.
 - Biraz tufeye geliyorum kendi kendime ama olsun.
-- Umarim sinav aciklanana kadar bitirim.
+- Sınav açıklandı tercihleri de yaptım artık tamamen odaklanabilirim.
 =======
 - Bu dosyada README.md ve index.html belgeleri bulunmaktadır.
 - index.html içerisinde deneme amaçlı yazılmış satırlar bulunmakta.
